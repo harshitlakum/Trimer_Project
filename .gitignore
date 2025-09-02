@@ -1,0 +1,24 @@
+# ---- Private Simulation Script ----
+trimer_sim.py
+
+# ---- Python cache and bytecode ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ---- Logs and temporary files ----
+*.log
+*.tmp
+*.swp
+
+# ---- macOS system files ----
+.DS_Store
+
+# ---- Jupyter checkpoints (if any) ----
+.ipynb_checkpoints/
+
+# ---- Build / output folders (optional) ----
+dist/
+build/
+*.egg-info/
